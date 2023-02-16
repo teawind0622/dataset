@@ -1,0 +1,22 @@
+Table 1
+dt,customer,type,amount,status
+7/9/21 20:03,rclaypole0@qq.com,BUY,71.46,CANCELED
+7/9/21 19:30,asmithin4@elegantthemes.com,SELL,40.24,CANCELED
+7/6/21 4:56,rclaypole0@qq.com,SELL,69.35,PENDING
+7/16/21 4:36,rclaypole0@qq.com,SELL,3.37,CANCELED
+7/15/21 11:59,bhaddeston2@mapquest.com,BUY,15.46,CANCELED
+7/24/21 16:31,bhaddeston2@mapquest.com,SELL,90.16,COMPLETED
+6/23/21 21:50,rclaypole0@qq.com,BUY,53.4,CANCELED
+7/30/21 22:30,bhaddeston2@mapquest.com,SELL,6.48,PENDING
+6/28/21 5:47,stapenden1@google.de,SELL,72.67,PENDING
+7/11/21 16:51,stapenden1@google.de,BUY,93.29,CANCELED
+7/16/21 8:25,rclaypole0@qq.com,BUY,53.19,PENDING
+7/22/21 2:24,rclaypole0@qq.com,BUY,51.17,CANCELED
+6/23/21 21:42,bhaddeston2@mapquest.com,SELL,10.57,PENDING
+7/22/21 9:11,rclaypole0@qq.com,BUY,68.25,COMPLETED
+7/19/21 4:11,rclaypole0@qq.com,SELL,66.78,PENDING
+7/3/21 19:00,gnickerson3@globo.com,BUY,26.31,PENDING
+7/11/21 17:56,bhaddeston2@mapquest.com,BUY,86.05,CANCELED
+7/3/21 1:58,stapenden1@google.de,SELL,31.49,CANCELED
+6/30/21 22:03,bhaddeston2@mapquest.com,BUY,50.93,PENDING
+7/9/21 14:22,stapenden1@google.de,BUY,5.4,CANCELED
